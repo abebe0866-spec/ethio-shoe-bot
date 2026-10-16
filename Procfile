@@ -1,0 +1,1 @@
+worker: python shoe_bot.py
