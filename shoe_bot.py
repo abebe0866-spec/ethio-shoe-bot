@@ -495,7 +495,7 @@ def main():
     # ዳታቤዙን በጅምር ላይ ማዘጋጀት
     init_db()
 
-    TOKEN = "8686401024:AAHR6jGeCvFuWwgDHlJGODnQ6qQS0IGA470"
+    TOKEN = "8686401024:AAE-eQ-K0qtBoAtpUzCAd0RFTAOhMOWLAKM"
 
     application = (
         Application.builder()
