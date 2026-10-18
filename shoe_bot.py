@@ -575,8 +575,7 @@ def main():
     keep_alive()
     init_db()
 
-    TOKEN = "8686401024:AAE-eQ-K0qtBoAtpUzCAd0RFTAOhMOWLAKM"
-
+    TOKEN = 
     application = (
         Application.builder()
         .token(TOKEN)
